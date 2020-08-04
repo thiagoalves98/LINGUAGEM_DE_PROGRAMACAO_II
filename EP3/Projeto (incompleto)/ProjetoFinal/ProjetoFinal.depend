@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1529181266 source:c:\users\thiag\documents\faculdade - p4\lp2\ep3\projetofinal\main.cpp
+	<iostream>
+	"Consumidor.h"
+	"Produtor.h"
+
+1529298822 c:\users\thiag\documents\faculdade - p4\lp2\ep3\projetofinal\include\consumidor.h
+	"Produtor.h"
+	<vector>
+	<thread>
+	<stdio.h>
+	<winsock2.h>
+	<semaphore.h>
+
+1529295380 c:\users\thiag\documents\faculdade - p4\lp2\ep3\projetofinal\include\produtor.h
+	"Consumidor.h"
+	<vector>
+	<thread>
+	<stdio.h>
+	<winsock2.h>
+	<semaphore.h>
+
+1529299471 source:c:\users\thiag\documents\faculdade - p4\lp2\ep3\projetofinal\src\consumidor.cpp
+	"Consumidor.h"
+
+1529295623 source:c:\users\thiag\documents\faculdade - p4\lp2\ep3\projetofinal\src\produtor.cpp
+	"Produtor.h"
+	<winsock2.h>
+
+1529299471 source:c:\users\thiag\documents\faculdade - p4\lp2\ep3\v4\projetofinal\src\consumidor.cpp
+	"Consumidor.h"
+
+1529298822 c:\users\thiag\documents\faculdade - p4\lp2\ep3\v4\projetofinal\include\consumidor.h
+	"Produtor.h"
+	<vector>
+	<thread>
+	<stdio.h>
+	<winsock2.h>
+	<semaphore.h>
+
+1529333791 c:\users\thiag\documents\faculdade - p4\lp2\ep3\v4\projetofinal\include\produtor.h
+	"Consumidor.h"
+	<vector>
+	<thread>
+	<stdio.h>
+	<winsock2.h>
+	<semaphore.h>
+
+1529333490 source:c:\users\thiag\documents\faculdade - p4\lp2\ep3\v4\projetofinal\src\produtor.cpp
+	"Produtor.h"
+	<winsock2.h>
+
+1529333589 source:c:\users\thiag\documents\faculdade - p4\lp2\ep3\v4\projetofinal\main.cpp
+	"Consumidor.h"
+	"Produtor.h"
+	<vector>
+	<thread>
+	<stdio.h>
+	<iostream>
+

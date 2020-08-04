@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1529331533 source:c:\users\thiag\onedrive\documentos\facudade\faculdade - p4\lp2\ep3\socket\main.cpp
+	<stdio.h>
+	<winsock2.h>
+
